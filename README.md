@@ -34,10 +34,10 @@ Aqui você vai encontrar repositórios pensados para ensino, experimentação e 
 
 <br>
 <p align="center">
-<a href="https://github.com/ProfLucasSousa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProfLucasSousa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProfLucasSousa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/ProfLucasSousa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProfLucasSousa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProfLucasSousa&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+  </a>
 </p>
 
 ## 💡 Projetos em Destaque
