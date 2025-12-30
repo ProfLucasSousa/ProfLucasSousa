@@ -40,14 +40,6 @@ Aqui você vai encontrar repositórios pensados para ensino, experimentação e 
   </a>
 </p>
 
-## 💡 Projetos em Destaque
-
-<div align="center">
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ProfLucasSousa&repo=app-mia&theme=algolia)](https://github.com/ProfLucasSousa/app-mia)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ProfLucasSousa&repo=nodered-react-app&theme=algolia)](https://github.com/ProfLucasSousa/nodered-react-app)
-
-</div>
 
 
 <div align="center">
