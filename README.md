@@ -47,3 +47,6 @@ Aqui você vai encontrar repositórios pensados para ensino, experimentação e 
   ### ✨ "*Código bom ensina. Commit bom explica.*" ✨
   
 </div>
+
+![](https://komarev.com/ghpvc/?username=lucassousa&color=blue)
+
