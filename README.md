@@ -27,7 +27,7 @@ Aqui você vai encontrar repositórios pensados para ensino, experimentação e 
 ## 🖥️ Tecnologias e Ferramentas:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vite,tailwind,bootstrap,sass,git,github,figma,vercel,netlify,supabase&perline=17" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,git,github,supabase&perline=12" />
 </p>
 
 ---
