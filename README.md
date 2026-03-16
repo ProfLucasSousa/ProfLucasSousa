@@ -19,7 +19,7 @@ Aqui você vai encontrar repositórios pensados para ensino, experimentação e 
   <a href="mailto:proflucassilvabu@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://meu-portfolio.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
 </div>
